@@ -29,5 +29,5 @@
  
 ## 微信
  
-![wechat-group-chat](https://www.github.com/zhaozy93/leetcode_go/raw/master/assets/wechat_1.jpeg)
-![wechat-group-chat](https://www.github.com/zhaozy93/leetcode_go/raw/master/assets/wechat_2.jpeg)
+![wechat-group-chat](./assets/wechat_1.jpeg)
+![wechat-group-chat](./assets/wechat_2.jpeg)
